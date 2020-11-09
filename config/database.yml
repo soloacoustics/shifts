@@ -50,5 +50,5 @@ test:
 production:
   <<: *default
   database: shifts_production
-  username: shifts
+  username: root
   password: <%= ENV['SHIFTS_DATABASE_PASSWORD'] %>

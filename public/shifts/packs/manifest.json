@@ -1,0 +1,24 @@
+{
+  "application.js": "/shifts/packs/js/application-5ff33ebb9c4e451fe34b.js",
+  "application.js.map": "/shifts/packs/js/application-5ff33ebb9c4e451fe34b.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/shifts/packs/js/application-5ff33ebb9c4e451fe34b.js"
+      ],
+      "js.map": [
+        "/shifts/packs/js/application-5ff33ebb9c4e451fe34b.js.map"
+      ]
+    },
+    "shifts/index": {
+      "js": [
+        "/shifts/packs/js/shifts/index-d89ec2c4e57a877623be.js"
+      ],
+      "js.map": [
+        "/shifts/packs/js/shifts/index-d89ec2c4e57a877623be.js.map"
+      ]
+    }
+  },
+  "shifts/index.js": "/shifts/packs/js/shifts/index-d89ec2c4e57a877623be.js",
+  "shifts/index.js.map": "/shifts/packs/js/shifts/index-d89ec2c4e57a877623be.js.map"
+}
